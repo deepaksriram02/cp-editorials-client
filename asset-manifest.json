@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cp-editorials-client/static/css/main.84487ea8.css",
+    "main.js": "/cp-editorials-client/static/js/main.be66d77a.js",
+    "index.html": "/cp-editorials-client/index.html",
+    "main.84487ea8.css.map": "/cp-editorials-client/static/css/main.84487ea8.css.map",
+    "main.be66d77a.js.map": "/cp-editorials-client/static/js/main.be66d77a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.be66d77a.js"
+  ]
+}
